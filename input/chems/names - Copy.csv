@@ -1,0 +1,43 @@
+name,abbreviation,moa,moa2,systemic,dmag,hc5
+acenapthalene,ANP,PAH,PAH,,,
+azinphos-methyl,AZM,Cholinesterase,Cholinesterase,non-systemic,-0.284318118,0.157528343
+carbofuran,CBF,AChE,Cholinesterase,systemic,1.706062203,0.006118327
+carbaryl,CBL,AChE,Cholinesterase,systemic,0.87418127,0.022644582
+cypermethrin,CPM,Sodium,Sodium,non-systemic,0.075675786,0.168683754
+chlorpyriphos,CPS,AChE,Cholinesterase,non-systemic,0.558708571,0.287955271
+copper,Cu,multi-site,Other,NA,1.257678575,3.035054976
+diflubenzuron,DFB,Chitin,Other,non-systemic,0.024199376,0.321197739
+deltamethrin,DTM,Sodium,Sodium,non-systemic,-0.745417383,0.008142341
+fluoranthene,FLN,PAH,PAH,,,
+fenitrothion,FNT,Cholinesterase,Cholinesterase,non-systemic,0.684180015,0.002087291
+fenvalerate,FNV,Sodium,Sodium,non-systemic,0.096646149,1.815262647
+linear-alkyl sulfonate,LAS,NA,Other,NA,0.447158031,0.094162129
+lambda-cyhalothrin,LCH,Sodium,Sodium,non-systemic,-0.429746571,0.225560878
+lindane,LIN,GABA-gated chloride channel,Other,NA,3.058655949,0.001261808
+methoxychlor,MXC,Nerve agent,Cholinesterase,NA,0.957435909,0.114038667
+nonyl-phenol,NPH,Phenols,Phenols,,,
+parathion-ethyl,PAE,AChE,Cholinesterase,non-systemic,0.173865235,0.293949801
+parathion-methyl,PAM,Cholinesterase,Cholinesterase,NA,-0.376332645,53.70280427
+pentachlorophenol,PCP,aerobic metabolism,Other,NA,2.647940153,6.161654379
+phenol,PHN,Phenols,Phenols,,,
+permethrin,PRM,Sodium,Sodium,broad spectrum,-0.126646919,0.055272861
+toluene,TLE,PAH,PAH,,,
+aldrin,ALD,,,,,
+atrazine,ATZ,,,,,
+benzenamine,BZN,,,,,
+bifenthrin,BFN,,,,,
+cadmium,Cd,,,,,
+levalbuterol hydrochloride,LBH,,,,,
+diazinon,DZN,,,,,
+dieldrin,DLD,,,,,
+endosulfan,EDS,,,,,
+endrin,EDR,,,,,
+EP,EP,,,,,
+fenthion,FTH,,,,,
+glyphosate,GLY,,,,,
+lead,Pb,,,,,
+malathion,MLT,,,,,
+MP,MP,,,,,
+nickel,Ni,,,,,
+sodium dodecyl sulfate,SDS,,,,,
+zinc,Zn,,,,,

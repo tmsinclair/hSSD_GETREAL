@@ -1,0 +1,34 @@
+Kingdom,Phylum_division,Subphylum,Superclass,Class,Order,Family,Genus,Latin
+animalia,arthropoda,crustacea,NA,malacostraca,isopoda,asellidae,asellus,asellus aquaticus
+animalia,arthropoda,crustacea,NA,malacostraca,isopoda,asellidae,caecidotea,caecidotea sp.
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,daphniidae,ceriodaphnia,ceriodaphnia dubia
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,daphniidae,daphnia,daphnia magna
+animalia,arthropoda,crustacea,NA,malacostraca,amphipoda,gammaridae,gammarus,gammarus pulex
+animalia,arthropoda,crustacea,NA,malacostraca,amphipoda,hyalellidae,hyalella,hyalella azteca
+animalia,arthropoda,hexapoda,NA,insecta,diptera,culicidae,aedes,aedes sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,caenis horaria
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,caenis sp.
+animalia,arthropoda,hexapoda,NA,insecta,trichoptera,limnephilidae,chaetopteryx,chaetopteryx villosa
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chaoboridae,chaoborus,chaoborus obscuripes
+animalia,arthropoda,hexapoda,NA,insecta,trichoptera,hydropsychidae,cheumatopsyche,cheumatopsyche sp.
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,chironomus,chironomus dilutus
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,chironomus,chironomus tentans
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,cloeon dipterum
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,cloeon sp.
+animalia,arthropoda,hexapoda,NA,insecta,odonata,coenagrionidae,coenagrion,coenagrion sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,leptophlebiidae,deleatidium,deleatidium sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,heptageniidae,epeorus,epeorus longimanus
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,ephemerellidae,ephemerella,ephemerella sp.
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,gyrinidae,gyrinus,gyrinus sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,heptageniidae,heptageniidae,heptageniidae
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,ephemeridae,hexagenia,hexagenia sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,isonychiidae,isonychia,isonychia bicolor
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,heptageniidae,maccaffertium,maccaffertium sp.
+animalia,arthropoda,hexapoda,NA,insecta,trichoptera,brachycentridae,micrasema,micrasema sp.
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,neocloeon,neocloeon triangulifer
+animalia,arthropoda,hexapoda,NA,insecta,hemiptera,pleidae,plea,plea minutissima
+animalia,arthropoda,hexapoda,NA,insecta,diptera,simuliidae,simulium,simulium vittatum
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,elmidae,stenelmis,stenelmis sp.
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,corixidae,trichocorixa,trichocorixa sp.
+animalia,mollusca,NA,NA,bivalvia,unionoida,unionidae,lampsilis,lampsilis fasciola
+animalia,annelida,NA,NA,clitellata,lumbriculida,lumbriculidae,lumbriculus,lumbriculus variegatus
