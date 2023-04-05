@@ -1,0 +1,82 @@
+Kingdom,Phylum_division,Subphylum,Superclass,Class,Order,Family,Genus,Latin
+metazoa,NA,hexapoda,NA,insecta,coleoptera,dytiscidae,unknown (dytiscidae family),dytiscidae
+metazoa,NA,hexapoda,NA,insecta,hemiptera,notonectidae,unknown (notonectidae family),notonectidae
+metazoa,NA,NA,NA,gastropoda,NA,physidae,unknown (physidae family),physidae
+metazoa,NA,NA,NA,gastropoda,NA,planorbidae,unknown (planorbidae family),planorbidae
+metazoa,NA,hexapoda,NA,insecta,hemiptera,gerridae,unknown (gerridae family),gerridae
+metazoa,NA,hexapoda,NA,insecta,diptera,culicidae,unknown (culicidae family),culicidae
+metazoa,NA,hexapoda,NA,insecta,hemiptera,pleidae,plea,plea minutissima
+metazoa,NA,hexapoda,NA,insecta,hemiptera,corixidae,unknown (corixidae family),corixidae
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),chironomidae
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,caenis horaria
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,cloeon dipterum
+metazoa,NA,NA,NA,clitellata,haplotaxida,naididae,dero,dero digitata
+metazoa,NA,NA,NA,clitellata,rhynchobdellida,glossiphoniidae,glossiphonia,glossiphonia
+metazoa,NA,NA,NA,gastropoda,architaenioglossa,viviparidae,bellamya,bellamya purificata
+metazoa,NA,NA,NA,gastropoda,architaenioglossa,viviparidae,angulyagra,angulyagra
+metazoa,NA,NA,NA,gastropoda,NA,physidae,physa,physa acuta
+metazoa,NA,NA,NA,gastropoda,architaenioglossa,ampullariidae,pomacea,pomacea
+metazoa,NA,NA,NA,gastropoda,NA,thiaridae,melanoides,melanoides tuberculata
+metazoa,NA,NA,NA,gastropoda,NA,planorbidae,hippeutis,hippeutis cantori
+animalia,NA,NA,NA,NA,NA,NA,NA,ferrissidae
+metazoa,NA,hexapoda,NA,insecta,odonata,NA,NA,zygoptera
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,cloeon
+metazoa,NA,hexapoda,NA,insecta,odonata,macromiidae,macromia,macromia
+metazoa,NA,hexapoda,NA,insecta,hemiptera,naucoridae,unknown (naucoridae family),naucoridae
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,chironomus,chironomus
+metazoa,NA,hexapoda,NA,insecta,hemiptera,nepidae,unknown (nepidae family),nepidae
+metazoa,NA,hexapoda,NA,insecta,diptera,stratiomyidae,unknown (stratiomyidae family),stratiomyidae
+metazoa,NA,hexapoda,NA,insecta,hemiptera,gerridae,gerris,gerris
+metazoa,NA,hexapoda,NA,insecta,coleoptera,elmidae,unknown (elmidae family),elmidae
+metazoa,NA,chelicerata,NA,arachnida,trombidiformes,NA,NA,hydrachnellae
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,daphniidae,simocephalus,simocephalus
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,chydoridae,chydorus,chydorus
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,chydoridae,alona,alona
+metazoa,NA,crustacea,multicrustacea,hexanauplia,cyclopoida,NA,NA,cyclopoida
+metazoa,NA,crustacea,multicrustacea,malacostraca,amphipoda,gammaridae,unknown (echinogammarus genus),unknown (echinogammarus genus)
+metazoa,NA,chelicerata,NA,arachnida,trombidiformes,NA,NA,hydrachnidia
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),orthocladiinae 
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),chironomini
+metazoa,NA,hexapoda,NA,insecta,odonata,NA,NA,anisoptera
+metazoa,NA,hexapoda,NA,insecta,trichoptera,NA,NA,trichoptera
+metazoa,NA,NA,NA,gastropoda,NA,physidae,physella,physella acuta
+metazoa,NA,NA,NA,bivalvia,venerida,sphaeriidae,unknown (sphaeriidae family),sphaeriidae
+metazoa,NA,crustacea,multicrustacea,hexanauplia,calanoida,diaptomidae,diaptomus,diaptomus
+metazoa,NA,hexapoda,NA,insecta,hemiptera,notonectidae,notonecta,notonecta
+animalia,annelida,NA,NA,clitellata,haplotaxida,tubificidae,tubifex,tubifex tubifex
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,daphniidae,daphnia,daphnia
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,moinidae,moina,moina
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,sididae,diaphanosoma,diaphanosoma 
+animalia,arthropoda,crustacea,multicrustacea,hexanauplia,cyclopoida,cyclopidae,cyclops,cyclops
+animalia,arthropoda,hexapoda,NA,insecta,hemiptera,nepidae,ranatra,ranatra linearis
+metazoa,NA,NA,NA,gastropoda,NA,thiaridae,melanoides,melanoides tuberculatus
+metazoa,NA,NA,NA,gastropoda,architaenioglossa,viviparidae,viviparus,viviparus
+animalia,NA,NA,NA,NA,NA,NA,NA,lemellidens marginalis
+metazoa,NA,hexapoda,NA,insecta,coleoptera,dytiscidae,eretes,eretes griseus
+metazoa,NA,hexapoda,NA,insecta,coleoptera,dytiscidae,hydroglyphus,guignotus japonicus
+animalia,NA,NA,NA,NA,NA,NA,NA,regimbarta attenuata
+metazoa,NA,hexapoda,NA,insecta,coleoptera,hydrophilidae,sternolophus,sternolophus rufipes
+metazoa,NA,crustacea,NA,branchiopoda,diplostraca,cyzicidae,caenestheriella,caenestheriella gifuensis
+metazoa,NA,hexapoda,NA,insecta,diptera,culicidae,aedes,aedes albopictus
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),chironominae
+metazoa,NA,hexapoda,NA,insecta,diptera,tipulidae,tipula,tipula aino
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,baetidae,baetis,baetis
+animalia,NA,NA,NA,NA,NA,NA,NA,ansiops
+metazoa,NA,hexapoda,NA,insecta,hemiptera,notonectidae,notonecta,notonecta triguttata
+animalia,NA,NA,NA,NA,NA,NA,NA,crocothermis servilla mariannae
+animalia,NA,NA,NA,NA,NA,NA,NA,lyriothermis pachygasta
+animalia,NA,NA,NA,NA,NA,NA,NA,orthertrum albistylumciosum
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),orthocladiinae
+metazoa,NA,hexapoda,NA,insecta,diptera,chironomidae,ablabesmyia,ablabesmyia
+metazoa,NA,NA,NA,gastropoda,NA,lymnaeidae,radix,radix
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,caenis
+metazoa,NA,hexapoda,NA,insecta,diptera,ceratopogonidae,unknown (ceratopogonidae family),ceratopogonidae
+metazoa,NA,hexapoda,NA,insecta,diptera,chaoboridae,unknown (chaoboridae family),chaoboridae
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,heptageniidae,epeorus,epeorus longimanus
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,baetidae,baetis,baetis brunneicolor
+metazoa,NA,hexapoda,NA,insecta,ephemeroptera,NA,NA,ephemeroptera
+metazoa,NA,hexapoda,NA,insecta,plecoptera,NA,NA,plecoptera
+metazoa,NA,hexapoda,NA,insecta,coleoptera,NA,NA,coleoptera
+metazoa,NA,NA,NA,clitellata,NA,NA,NA,oligochaeta
+metazoa,NA,hexapoda,NA,collembola,NA,NA,NA,collembola
+metazoa,NA,hexapoda,NA,insecta,diptera,NA,NA,diptera

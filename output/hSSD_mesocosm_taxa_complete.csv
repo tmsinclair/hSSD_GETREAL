@@ -1,0 +1,82 @@
+Kingdom,Phylum_division,Subphylum,Superclass,Class,Order,Family,Genus,Latin
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,dytiscidae,unknown (dytiscidae family),unknown (dytiscidae family)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,notonectidae,unknown (notonectidae family),unknown (notonectidae family)
+animalia,mollusca,NA,NA,gastropoda,basommatophora,physidae,unknown (physidae family),unknown (physidae family)
+animalia,mollusca,NA,NA,gastropoda,basommatophora,planorbidae,unknown (planorbidae family),unknown (planorbidae family)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,gerridae,unknown (gerridae family),unknown (gerridae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,culicidae,unknown (culicidae family),unknown (culicidae family)
+animalia,arthropoda,hexapoda,NA,insecta,hemiptera,pleidae,plea,plea minutissima
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,corixidae,unknown (corixidae family),unknown (corixidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),unknown (chironomidae family)
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,caenis horaria
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,cloeon dipterum
+animalia,annelida,NA,NA,clitellata,haplotaxida,naididae,dero,dero digitata
+animalia,annelida,NA,NA,clitellata,rhynchobdellida,glossiphoniidae,glossiphonia,unknown (glossiphonia genus)
+animalia,mollusca,NA,NA,gastropoda,architaenioglossa,viviparidae,bellamya,bellamya purificata
+animalia,mollusca,NA,NA,gastropoda,architaenioglossa,viviparidae,angulyagra,angulyagra
+animalia,mollusca,NA,NA,gastropoda,basommatophora,physidae,physa,physa acuta
+animalia,mollusca,NA,NA,gastropoda,architaenioglossa,ampullariidae,pomacea,unknown (pomacea genus)
+animalia,mollusca,NA,NA,gastropoda,neotaenioglossa,thiaridae,melanoides,melanoides tuberculata
+animalia,mollusca,NA,NA,gastropoda,basommatophora,planorbidae,hippeutis,hippeutis cantori
+animalia,mollusca,NA,NA,gastropoda,basommatophora,ferrissidae,unknown (ferrissidae family),unknown (ferrissidae family)
+animalia,arthropoda,hexapoda,NA,insecta,odonata,zygoptera,unknown (zygoptera clade),unknown (zygoptera clade)
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,cloeon,unknown (cloeon genus)
+animalia,arthropoda,hexapoda,NA,insecta,odonata,macromiidae,macromia,unknown (macromia genus)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,naucoridae,unknown (naucoridae family),unknown (naucoridae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,chironomus,unknown (chironomus genus)
+animalia,arthropoda,hexapoda,NA,insecta,hemiptera,nepidae,unknown (nepidae family),unknown (nepidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,stratiomyidae,unknown (stratiomyidae family),unknown (stratiomyidae family)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,gerridae,gerris,unknown (gerris genus)
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,elmidae,unknown (elmidae family),unknown (elmidae family)
+animalia,arthropoda,chelicerata,NA,arachnida,trombidiformes,unknown (hydrachnellae family),unknown (hydrachnellae family),unknown (hydrachnellae family)
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,daphniidae,simocephalus,unknown (simocephalus genus)
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,chydoridae,chydorus,unknown (chydorus genus)
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,chydoridae,alona,unknown (alona genus)
+animalia,arthropoda,crustacea,multicrustacea,hexanauplia,cyclopoida,unknown (cyclopoida order),unknown (cyclopoida order),unknown (cyclopoida order)
+animalia,arthropoda,crustacea,multicrustacea,malacostraca,amphipoda,gammaridae,unknown (echinogammarus genus),unknown (echinogammarus genus)
+animalia,arthropoda,chelicerata,NA,arachnida,trombidiformes,hydrachnidia,unknown (hydrachnidia family),unknown (hydrachnidia family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),unknown (chironomidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),unknown (chironomidae family)
+animalia,arthropoda,hexapoda,NA,insecta,odonata,anisoptera,unknown (ansioptera clade),unknown (ansioptera clade)
+animalia,arthropoda,hexapoda,NA,insecta,trichoptera,unknown (trichoptera order),unknown (trichoptera order),unknown (trichoptera order)
+animalia,mollusca,NA,NA,gastropoda,basommatophora,physidae,physella,physella acuta
+animalia,mollusca,NA,NA,bivalvia,veneroida,pisidiidae,unknown (sphaeriidae family),unknown (sphaeriidae family)
+animalia,arthropoda,crustacea,multicrustacea,hexanauplia,calanoida,diaptomidae,diaptomus,unknown (diaptomus genus)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,notonectidae,notonecta,unknown (notonecta genus)
+animalia,annelida,NA,NA,clitellata,haplotaxida,tubificidae,tubifex,tubifex tubifex
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,daphniidae,daphnia,unknown (daphnia genus)
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,moinidae,moina,unknown (moina genus)
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,sididae,diaphanosoma,diaphanosoma 
+animalia,arthropoda,crustacea,multicrustacea,hexanauplia,cyclopoida,cyclopidae,cyclops,unknown (cyclops genus)
+animalia,arthropoda,hexapoda,NA,insecta,hemiptera,nepidae,ranatra,ranatra linearis
+animalia,mollusca,NA,NA,gastropoda,neotaenioglossa,thiaridae,melanoides,melanoides tuberculatus
+animalia,mollusca,NA,NA,gastropoda,architaenioglossa,viviparidae,viviparus,unknown (viviparus genus)
+animalia,mollusca,NA,NA,bivalvia,unionoida,unionidae,lamellidens,lamellidens marginalis
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,dytiscidae,eretes,eretes griseus
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,dytiscidae,hydroglyphus,guignotus japonicus
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,hydrophilidae,regimbartia,regimbartia attenuata
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,hydrophilidae,sternolophus,sternolophus rufipes
+animalia,arthropoda,crustacea,NA,branchiopoda,diplostraca,cyzicidae,caenestheriella,caenestheriella gifuensis
+animalia,arthropoda,hexapoda,NA,insecta,diptera,culicidae,aedes,aedes albopictus
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),unknown (chironomidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,tipulidae,tipula,tipula aino
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,baetis,unknown (baetis genus)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,notonectidae,ansiops,unknown (ansiops genus)
+animalia,arthropoda,hexapoda,NA,insecta,heteroptera,notonectidae,notonecta,notonecta triguttata
+animalia,arthropoda,hexapoda,NA,insecta,odonata,libellulidae,crocothermis,crocothemis servilla mariannae
+animalia,arthropoda,hexapoda,NA,insecta,odonata,anisoptera,lyriothemis,lyriothemis pachygasta
+animalia,arthropoda,hexapoda,NA,insecta,odonata,libellulidae,orthertrum,orthertrum albistylumciosum
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (chironomidae family),unknown (chironomidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chironomidae,unknown (ablabesmyia genus),unknown (ablabesmyia genus)
+animalia,mollusca,NA,NA,gastropoda,basommatophora,lymnaeidae,radix,unknown (radix genus)
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,caenidae,caenis,unknown (caenis genus)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,ceratopogonidae,unknown (ceratopogonidae family),unknown (ceratopogonidae family)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,chaoboridae,unknown (chaoboridae family),unknown (chaoboridae family)
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,heptageniidae,epeorus,epeorus longimanus
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,baetidae,baetis,baetis brunneicolor
+animalia,arthropoda,hexapoda,NA,insecta,ephemeroptera,unknown (ephemeroptera order),unknown (ephemeroptera order),unknown (ephemeroptera order)
+animalia,arthropoda,hexapoda,NA,insecta,plecoptera,unknown (plecoptera order),unknown (plecoptera order),unknown (plecoptera order)
+animalia,arthropoda,hexapoda,NA,insecta,coleoptera,unknown (coleoptera order),unknown (coleoptera order),unknown (coleoptera order)
+animalia,annelida,NA,NA,clitellata,unknown (oligochaeta clade),unknown (oligochaeta clade),unknown (oligochaeta clade),unknown (oligochaeta clade)
+animalia,arthropoda,unknown (collembola class),unknown (collembola class),collembola,unknown (collembola order),unknown (collembola order),unknown (collembola order),unknown (collembola order)
+animalia,arthropoda,hexapoda,NA,insecta,diptera,unknown (diptera order),unknown (diptera order),unknown (diptera order)
